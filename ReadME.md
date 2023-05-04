@@ -5,7 +5,7 @@ boxes around the vehicles, and loading the video.
 To run the repository, simply clone the project, and then run the carCounter.py file.
 
 How the project works: 
-Parking spaces with cars in their lots will have red bounding boxes around them. As cars have larger non-zero quantities than empty parking lots, their bounding boxes will have higher pixel counts. 
+Parking spaces with cars in their lots will have red bounding boxes around them. As cars have larger non-zero quantities than empty parking lots, their bounding boxes will have higher pixel counts, and are able to be identified throught these higher pixel counts. 
 
 
 
